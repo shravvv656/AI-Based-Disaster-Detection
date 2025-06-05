@@ -16,15 +16,4 @@ This project focuses on developing an AI-based system for detecting disasters fr
 - **Implementation**: Each model is trained for 75 epochs and evaluated for performance in disaster detection.
 - **Novelty**: Adapting and comparing state-of-the-art segmentation and classification models on grayscale satellite imagery, where color-based information is limited.
 
-## 📁 Project Structure
 
-```plaintext
-AI-Based-Disaster-Detection/
-├── data/                  # Satellite image dataset (grayscale)
-├── models/                # Model architectures and training scripts
-├── results/               # Evaluation results and saved models
-├── notebooks/             # Jupyter notebooks for experiments and visualization
-├── utils/                 # Utility scripts (data loaders, metrics, etc.)
-├── requirements.txt       # Python dependencies
-├── README.md              # Project overview and instructions
-└── LICENSE                # License details
